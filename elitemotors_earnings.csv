@@ -1,0 +1,6 @@
+type,name,model,variant,purchasing_date,selling_date,purchasing_price,selling_price,profit_loss
+car,honda civic,2018,basic,25-12-2022,01-01-2023,3800000,3650000,-150000
+,,,,,,45,35,-10
+,,,,,,25,35,10
+car,honda civic,2018,basic,25-12-2022,01-01-2023,2500000,2350000,-150000
+car,civic,2018,basic,25-12-2022,01-01-2023,3450000,3350000,-100000
